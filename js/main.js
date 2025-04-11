@@ -80,6 +80,15 @@ var swiper = new Swiper(".client-swiper", {
 
 
 
+/*=============== Preloader ===============*/
+
+var loader = document.getElementById("preloader");
+
+window.addEventListener("load", function () {
+    loader.style.display = "none";
+})
+
+
 
 
 
