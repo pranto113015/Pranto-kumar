@@ -1,4 +1,6 @@
-/* Author : Pranto Kumar */
+/* Author : Pranto Kumar
+Front End Developer
+*/
 
 
 /* =========Google Fonts============ */
@@ -40,7 +42,6 @@
   --scroll-thumb-color: #70768a;
   --scroll-thumb-hover-color: #454f6b;
 }
-
 /* ============Variable CSS end================ */
 
 
@@ -596,6 +597,7 @@ header.sticky .nav-bar {
 .bar .css:before {
   width: 85%;
 }
+
 .bar .TailWind_css:before {
   width: 70%;
 }
@@ -603,6 +605,7 @@ header.sticky .nav-bar {
 .bar .js:before {
   width: 80%;
 }
+
 .bar .react:before {
   width: 50%;
 }
@@ -755,6 +758,13 @@ header.sticky .nav-bar {
   font-weight: 600;
   margin: 15px 0 10px;
 }
+
+.service-modal-body p {
+  text-align: justify;
+  font-size: var(--normal-font-size);
+  margin-bottom: 20px;
+}
+
 
 .service-modal-body ul li {
   margin-top: 15px;
